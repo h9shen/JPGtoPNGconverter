@@ -1,2 +1,2 @@
 # image_converter
-Convert a jpg to png
+Convert an image from jpg to png
